@@ -20,7 +20,5 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Links"
-   Link: "link"
  - name: "Resume"
    absolute-link: "x.pdf"
