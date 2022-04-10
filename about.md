@@ -3,4 +3,4 @@ layout: default
 title: About Me
 ---
 
-Theme based on https://rahul-bothra.github.io/parchment/
+Jekyll does make everything much easier for non-programmers. Theme based on https://rahul-bothra.github.io/parchment/
