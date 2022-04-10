@@ -3,4 +3,4 @@ layout: default
 title: About Me
 ---
 
-https://rahul-bothra.github.io/parchment/
+Theme based on https://rahul-bothra.github.io/parchment/
