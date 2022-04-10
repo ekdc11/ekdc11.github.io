@@ -1,21 +1,24 @@
-# Site settings
-title: "TextLog"
-description: "Minimalist Jekyll theme for documentation site"
-baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: ""
-author: "John Doe"
+title: Parchment
+author: pro-panda
+subtitle: The life of a frustrated engineer
 
-# Build settings
-kramdown:
-  input: GFM
-permalink: pretty
+url: "https://rahul-bothra.github.io"
+baseurl: "/parchment"
 
-# Third-party services
-# just leave empty to disable it
-google_analytics:
-disqus_shortname: 
+footer_only_homepage: true
+footer_url: "https://github.com/rahul-bothra"
+footer_text: "Theme by rahul-bothra"
 
-plugins:
-  - jekyll-sitemap
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
 
-exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "About"
+   link: "about"
+ - name: "Resume"
+   absolute-link: "https://rahul-bothra.github.io/CV.pdf"

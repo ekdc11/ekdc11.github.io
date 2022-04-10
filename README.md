@@ -1,13 +1,37 @@
-# TextLog
+# Parchment
+A clean, single column blog template built for jekyll
 
-> Textlog is a minimalist, lefty-style Jekyll theme designed for documentation based blog.
+## Building Locally
+* Clone the repository
+* Run `bundle install`
+* Run `bundle exec jekyll serve`
+* Visit browser at `http://127.0.0.1:4000/parchment/`
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-1.5-green.svg) ![TRAVIS-CI](https://travis-ci.org/heiswayi/textlog.svg?branch=gh-pages)
+## Usage
 
-- **Demo:** https://heiswayi.github.io/textlog/
+* To use this as your GitHub Page, fork this repository, and
+  rename it to `<username>.github.io`. Your site will be live
+  at `https://<username>.github.io/parchment-jekyll`.
 
-![SCREENSHOT](https://i.imgur.com/yXqbM4S.png)
+* You can customise variables in `_config.yml` and `css/*` files.
+
+* You can add markdown files, say `foo.md` in the root directory
+  of the repository. It will then be accessible like
+  `your.website.com/foo`.
+
+* To add posts, add your posts in the `_posts` directory. Follow
+  the naming convention `%yyyy-%mm-%dd-your-title-here.md`.
+
+* To add a profile picture, use class `profile-picture` around
+  the image.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an
+issue first to discuss what you would like to change.
+
+## Credits
+Parchment is inspired from the resume theme
+[Researcher](https://github.com/ankitsultana/researcher)
 
 ## License
-
-[MIT](LICENSE.md)
+[GNU GPL v3](LICENSE)
