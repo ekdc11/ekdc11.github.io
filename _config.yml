@@ -21,6 +21,6 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Link"
-   link: "about"
+   link: "link"
  - name: "Resume"
-   absolute-link: "https://rahul-bothra.github.io/CV.pdf"
+   absolute-link: "https://ekdc11.github.io/CV.pdf"
