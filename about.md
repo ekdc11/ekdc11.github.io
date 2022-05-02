@@ -7,7 +7,7 @@ title: About Me
 **ORCID**: [0000-0001-6175-842X](https://orcid.org/0000-0001-6175-842X)
 
 ### Contact Me
-
+<img src="/assets/email.png">
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
