@@ -11,4 +11,8 @@ https://www.wordreference.com/
 
 3. Crimson Pro - Google Fonts
 https://fonts.google.com/specimen/Crimson+Pro
-> Good alternative to Minion Pro and Arno Pro
+> Good alternative to Minion Pro and Arno Pro.
+
+4. Garamond-Math CTAN: /tex-archive/fonts/garamond-math
+https://ctan.org/tex-archive/fonts/garamond-math
+> We need typefaces for equations.
