@@ -11,3 +11,4 @@ https://www.wordreference.com/
 
 3. Crimson Pro - Google Fonts
 https://fonts.google.com/specimen/Crimson+Pro
+~ Good alternative to Minion Pro and Arno Pro ~
