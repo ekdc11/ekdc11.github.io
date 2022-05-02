@@ -16,3 +16,5 @@ https://fonts.google.com/specimen/Crimson+Pro
 4. Garamond-Math CTAN: /tex-archive/fonts/garamond-math
 https://ctan.org/tex-archive/fonts/garamond-math
 > We need typefaces for equations.
+
+5. Organic Chemistry Data & Info https://organicchemistrydata.org/
