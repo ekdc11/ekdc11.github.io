@@ -6,8 +6,9 @@ title: Useful Links
 1. Good Usage Guides for Commonly Abused Software - TS Group, LMU
 https://thornseshold.cup.uni-muenchen.de/resources/computer/software-use/
 
-2. English to French, Italian, German & Spanish Dictionary - WordReference.com
+2. WordReference.com
 https://www.wordreference.com/
+> English to French, Italian, German & Spanish Dictionary
 
 3. Crimson Pro - Google Fonts
 https://fonts.google.com/specimen/Crimson+Pro
@@ -18,3 +19,6 @@ https://ctan.org/tex-archive/fonts/garamond-math
 > We need typefaces for equations.
 
 5. Organic Chemistry Data & Info https://organicchemistrydata.org/
+
+6. Gpg4win https://www.gpg4win.org/index.html
+> Secure email and file encryption with GnuPG for Windows
