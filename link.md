@@ -9,6 +9,7 @@ https://thornseshold.cup.uni-muenchen.de/resources/computer/software-use/
 2. WordReference.com
 https://www.wordreference.com/
 > English to French, Italian, German & Spanish Dictionary
+> https://www.wordreference.com/english/LinkButtonsOld.htm
 
 3. Crimson Pro - Google Fonts
 https://fonts.google.com/specimen/Crimson+Pro
