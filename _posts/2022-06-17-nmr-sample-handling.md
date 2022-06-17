@@ -23,4 +23,4 @@ It is good practice to filter NMR solutions directly into the sample�
 
 > Note: Some problems may occur when using glass fiber for filtering the sample, especially when you want to measure T1.
 
-For more check out: https://ekdc11.github.io/share/nmr_sample.pdf
+For more check out AVANCE Beginners Guide: https://ekdc11.github.io/share/nmr_sample.pdf or https://ekdc11.github.io/share/a006en.pdf
