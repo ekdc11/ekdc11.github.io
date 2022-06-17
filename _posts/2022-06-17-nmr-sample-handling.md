@@ -17,7 +17,7 @@ It is good practice to filter NMR solutions directly into the sample�
 
 3. Filter the solution into the sample tube through a Pasteur pipette containing a small plug of Kimwipe.
 
-4. Filter 0.2 cm3 of solvent through the filter into the tube. The resulting solution should have a depth of three to four centimeters.
+4. Filter 0.2 cm3 of solvent through the filter into the tube. The resulting solution should have a depth of three to four centimeters.
 
 5. Close the tube with a cap, seal the top with parafilm to reduce evaporation and label the tube near the top. Be careful to ensure that the cap, parafilm and label are concentric or otherwise they will adversely affect sample spinning.
 
