@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NMR Sample Handling
-subtitle: Advance Systems version 006
+subtitle: AVANCE Beginners Guide version 006
 tags: [nmr]
 ---
 
