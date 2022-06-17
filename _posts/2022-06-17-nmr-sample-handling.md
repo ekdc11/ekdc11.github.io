@@ -11,7 +11,7 @@ It is good practice to filter NMR solutions directly into the sample�
 > Note: The sample tube should always be held by the top!
 
 ## Typical procedures to prepare a sample might be as follows:
-1. For a solid sample using a 5 mm tube dissolve up to 20 mg of the sample in about 0.6 cm3 of the chosen solvent (for 10 mm tubes dissolve 80 mg in 2.5 cm3). Typically for a liquid  sample,  and  when  observing  protons,  dissolve  20%  sample  in  80% deuterated solvent.
+1. For a solid sample using a 5 mm tube dissolve up to 20 mg of the sample in about 0.6 cm3 of the chosen solvent (for 10 mm tubes dissolve 80 mg in 2.5 cm3). Typically for a liquid sample, and when observing protons, dissolve 20% sample in  80% deuterated solvent.
 
 2.  Add a small amount (~0.1%) of reference compound Tetramethylsilane (TMS). Make sure the TMS signal is smaller than the most intense sample or solvent signal (otherwise the signal-to-noise ratio is wasted because of low receiver gain).
 
