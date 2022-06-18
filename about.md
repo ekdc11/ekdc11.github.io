@@ -24,7 +24,3 @@ NIrWWL0A/jbYTZmKE4vwUq/VhlAnMYdjSYr1dYbNnSbCJ0DdvRsP
 =eEz/
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-### Special Thanks go to rahul-bothra
-
-Jekyll does make everything much easier for non-programmers. This theme is based on https://rahul-bothra.github.io/parchment/
