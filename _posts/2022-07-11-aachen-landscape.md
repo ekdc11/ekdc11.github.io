@@ -6,5 +6,3 @@ tags: [image, germany]
 ---
 
 ![](../assets/2022-07-11-aachen-landscape.jpg)
-
-![](2022-07-11-aachen-landscape.jpg)
