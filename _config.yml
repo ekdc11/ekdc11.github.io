@@ -22,5 +22,8 @@ navbar:
    link: "about"
  - name: "Link"
    link: "link"
- - name: "Résumé"
+ /*
+ - name: "For Students"
+   link: "forstudents" */
+ - name: "Resume"
    absolute-link: "https://ekdc11.github.io/CV.pdf"
