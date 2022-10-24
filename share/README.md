@@ -8,3 +8,5 @@
 > Core fonts for the Web
 - webcore-fonts-vista-3.0-1.noarch.rpm
 > ClearType Font Collection
+- mtp2lite.zip
+> MathTime(TM) Professional II Lite Fonts
