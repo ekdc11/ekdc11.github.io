@@ -24,3 +24,5 @@ https://ctan.org/tex-archive/fonts/garamond-math
 > Secure email and file encryption with GnuPG for Windows
 
 7. Latest TeX Live Images https://ctan.org/tex-archive/systems/texlive/Images?lang=en
+
+8. URW++ 35 Fonts https://git.ghostscript.com/?p=urw-core35-fonts.git or https://github.com/ArtifexSoftware/urw-base35-fonts
