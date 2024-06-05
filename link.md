@@ -16,12 +16,20 @@ https://organicchemistrydata.org/
 https://science-of-synthesis.thieme.com/app/toc \
 https://science-of-synthesis.thieme.com/app/training/resource
 
-7.  Latest TeX Live Images \
+7.  Latest TeX Live Full Images \
 https://ctan.org/tex-archive/systems/texlive/Images?lang=en
 
 9. URW++ 35 base fonts \
 https://github.com/ArtifexSoftware/urw-base35-fonts \
 > Look for Nimbus Sans L if you need Helvetica.
 
-8. download-github \
+8. download-directory \
 https://download-directory.github.io/
+
+9. Problems of Reaction Mechanism -- Yokoshima Group\
+https://www.ps.nagoya-u.ac.jp/lab_pages/natural_products/problem.html \
+https://www.ps.nagoya-u.ac.jp/lab_pages/natural_products/problem-e.html
+
+10. Organic Reaction Mechanisms I and II by Van Vranken at UCI \
+https://open.uci.edu/courses/chem_201_organic_reactions_mechanisms_i.html \
+https://open.uci.edu/courses/chem_202_organic_reaction_mechanisms_ii.html
