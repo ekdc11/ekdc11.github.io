@@ -3,24 +3,24 @@ layout: default
 title: Useful Links
 ---
 
-1. Good Usage Guides for Commonly Abused Software - TS Group, LMU
+1. Good Usage Guides for Commonly Abused Software -- Thorn-Seshold Group
 https://thornseshold.cup.uni-muenchen.de/resources/computer/software-use/
 
-2. Resources of the Trauner Group
+3. Resources -- Trauner Group
 https://www.traunergroup.org/resources
 
-3. Organic Chemistry Data & Info
+5. Organic Chemistry Data & Info
 https://organicchemistrydata.org/
 
-5. Science of Syntehsis by Thieme Chemistry (aka Houben-Weyl)
+6. Science of Syntehsis by Thieme Chemistry (aka Houben-Weyl)
 https://science-of-synthesis.thieme.com/app/toc
 https://science-of-synthesis.thieme.com/app/training/resource
 
-6.  Latest TeX Live Images https://ctan.org/tex-archive/systems/texlive/Images?lang=en
+7.  Latest TeX Live Images https://ctan.org/tex-archive/systems/texlive/Images?lang=en
 
-7. URW++ 35 base fonts
-> Look for Nimbus Sans L if you need Helvetica.
+8. URW++ 35 base fonts
 https://github.com/ArtifexSoftware/urw-base35-fonts
+> Look for Nimbus Sans L if you need Helvetica.
 
 8. download-github
 https://download-directory.github.io/
