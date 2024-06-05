@@ -34,5 +34,5 @@ https://www.ps.nagoya-u.ac.jp/lab_pages/natural_products/problem-e.html
 https://open.uci.edu/courses/chem_201_organic_reactions_mechanisms_i.html \
 https://open.uci.edu/courses/chem_202_organic_reaction_mechanisms_ii.html
 
-11. Butterick’s Practical Typography \
+11. Butterick's Practical Typography \
 https://practicaltypography.com/
