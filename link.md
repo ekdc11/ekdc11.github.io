@@ -33,3 +33,6 @@ https://www.ps.nagoya-u.ac.jp/lab_pages/natural_products/problem-e.html
 10. Organic Reaction Mechanisms I and II by Van Vranken at UCI \
 https://open.uci.edu/courses/chem_201_organic_reactions_mechanisms_i.html \
 https://open.uci.edu/courses/chem_202_organic_reaction_mechanisms_ii.html
+
+11. Butterick’s Practical Typography \
+https://practicaltypography.com/
