@@ -30,6 +30,9 @@ https://open.uci.edu/courses/chem_202_organic_reaction_mechanisms_ii.html
 1. Lecture Collection of Dyker at RUB \
 https://www.ruhr-uni-bochum.de/oc2/dyker/Vorlesungen_1.html
 
+1. Course Notes by Kwan \
+https://ekwan.github.io/notes.html
+
 ### LaTeX, Fonts
 
 1. Latest TeX Live Full Images \
