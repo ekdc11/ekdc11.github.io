@@ -27,7 +27,7 @@ https://pubs.acs.org/page/achre4/special-issues/index.html
 https://open.uci.edu/courses/chem_201_organic_reactions_mechanisms_i.html \
 https://open.uci.edu/courses/chem_202_organic_reaction_mechanisms_ii.html
 
-1. Lecture Collection of by *G. Dyker* \
+1. Lecture Collection of *G. Dyker* \
 https://www.ruhr-uni-bochum.de/oc2/dyker/Vorlesungen_1.html
 
 1. Course Notes by *E. E. Kwan* \
