@@ -4,9 +4,6 @@ title: Useful Links
 ---
 ### Chemistry
 
-1. Resources -- Trauner Group \
-https://www.traunergroup.org/resources
-
 1. Organic Chemistry Data & Info \
 https://organicchemistrydata.org
 
@@ -14,13 +11,24 @@ https://organicchemistrydata.org
 https://science-of-synthesis.thieme.com/app/toc \
 https://science-of-synthesis.thieme.com/app/training/resource
 
+1. Resources -- Trauner Group \
+https://www.traunergroup.org/resources
+
 1. Problems of Reaction Mechanism -- Yokoshima Group\
 https://www.ps.nagoya-u.ac.jp/lab_pages/natural_products/problem.html \
 https://www.ps.nagoya-u.ac.jp/lab_pages/natural_products/problem-e.html
 
+1. Special Issues of *Accounts* \
+https://pubs.acs.org/page/achre4/special-issues/index.html
+
+### Open Courses
+
 1. Organic Reaction Mechanisms I and II by Van Vranken at UCI \
 https://open.uci.edu/courses/chem_201_organic_reactions_mechanisms_i.html \
 https://open.uci.edu/courses/chem_202_organic_reaction_mechanisms_ii.html
+
+1. Lecture Collection of Dyker at RUB \
+https://www.ruhr-uni-bochum.de/oc2/dyker/Vorlesungen_1.html
 
 ### LaTeX, Fonts
 
