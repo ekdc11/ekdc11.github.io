@@ -4,10 +4,10 @@ title: Useful Links
 ---
 ### Chemistry
 
-1. Organic Chemistry Data & Info \
+1. Organic Chemistry Data & Info (*ASC Org Chem Division*) \
 https://organicchemistrydata.org
 
-1. Science of Syntehsis by Thieme Chemistry (aka Houben-Weyl) \
+1. *Science of Syntehsis* by Thieme Chemistry (aka *Houben-Weyl*) \
 https://science-of-synthesis.thieme.com/app/toc \
 https://science-of-synthesis.thieme.com/app/training/resource
 
