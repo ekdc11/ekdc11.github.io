@@ -27,11 +27,11 @@ https://open.uci.edu/courses/chem_202_organic_reaction_mechanisms_ii.html
 1. Latest TeX Live Full Images \
 https://ctan.org/tex-archive/systems/texlive/Images?lang=en
 
-1. URW++ 35 Base Fonts \
+1. URW++ 35 Base Fonts (GPLv3)\
 https://github.com/ArtifexSoftware/urw-base35-fonts \
 > Look for Nimbus Sans L if you need Helvetica.
 
-1. STIX Two Math \
+1. STIX Two Math (OFL 1.1 License)\
 https://github.com/stipub/stixfonts
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
