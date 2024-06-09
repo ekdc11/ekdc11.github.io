@@ -33,7 +33,7 @@ https://www.ruhr-uni-bochum.de/oc2/dyker/Vorlesungen_1.html
 1. Course Notes by *E. E. Kwan* \
 https://ekwan.github.io/notes.html
 
-### LaTeX, Typefaces
+### LaTeX, Fonts
 
 1. Latest TeX Live Full Images \
 https://ctan.org/tex-archive/systems/texlive/Images?lang=en
@@ -43,16 +43,20 @@ https://github.com/ArtifexSoftware/urw-base35-fonts \
 > Look for Nimbus Sans L if you need Helvetica.
 
 1. STIX Two (incl. STIX Two Math) \
-https://github.com/stipub/stixfonts
+https://github.com/stipub/stixfonts \
+> The math font is a must-have for anybody who is crafting a manuscript.
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
 https://pctex.com/mtpro2.html#MTPro2_Lite
 
 1. Crimson Text \
-https://github.com/skosch/Crimson
+https://github.com/skosch/Crimson \
+> Alternative for Minion (Pro). Crimson Pro (a folk or a redesign of it) is something else but well designed too.
 
 1. Garamond Math \
-https://ctan.org/tex-archive/fonts/garamond-math
+https://ctan.org/tex-archive/fonts/garamond-math \
+> Use in conjunction with Crimson Text.
 
 1. Inter \
-https://github.com/rsms/inter
+https://github.com/rsms/inter \
+https://rsms.me/inter/lab/?antialias=default
