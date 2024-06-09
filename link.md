@@ -47,7 +47,8 @@ https://github.com/stipub/stixfonts \
 > The math font is a must-have for anybody who is crafting a manuscript.
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
-https://pctex.com/mtpro2.html#MTPro2_Lite
+https://pctex.com/mtpro2.html#MTPro2_Lite \
+> LaTeX only math font, which resembles Times and has lots of math related symbols/features in it. The lite version is free of charge.
 
 1. Crimson Text \
 https://github.com/skosch/Crimson \
