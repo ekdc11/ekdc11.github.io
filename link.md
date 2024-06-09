@@ -33,17 +33,26 @@ https://www.ruhr-uni-bochum.de/oc2/dyker/Vorlesungen_1.html
 1. Course Notes by *E. E. Kwan* \
 https://ekwan.github.io/notes.html
 
-### LaTeX, Fonts
+### LaTeX, Typefaces
 
 1. Latest TeX Live Full Images \
 https://ctan.org/tex-archive/systems/texlive/Images?lang=en
 
-1. URW++ 35 Base Fonts *GPLv3*\
+1. URW++ 35 Base Fonts \
 https://github.com/ArtifexSoftware/urw-base35-fonts \
 > Look for Nimbus Sans L if you need Helvetica.
 
-1. STIX Two Math *OFL 1.1*\
+1. STIX Two (incl. STIX Two Math) \
 https://github.com/stipub/stixfonts
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
 https://pctex.com/mtpro2.html#MTPro2_Lite
+
+1. Crimson Text \
+https://github.com/skosch/Crimson
+
+1. Garamond Math \
+https://ctan.org/tex-archive/fonts/garamond-math
+
+1. Inter \
+https://github.com/rsms/inter
