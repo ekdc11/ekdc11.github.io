@@ -24,5 +24,5 @@ navbar:
    link: "link"
 #- name: "For Students"
 # link: "forstudents"
- - name: "Resume"
-   absolute-link: "https://ekdc11.github.io/CV.pdf"
+# - name: "Resume"
+#   absolute-link: "https://ekdc11.github.io/CV.pdf"
