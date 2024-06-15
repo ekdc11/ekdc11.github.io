@@ -61,3 +61,6 @@ https://ctan.org/tex-archive/fonts/garamond-math \
 1. Inter \
 https://github.com/rsms/inter \
 https://rsms.me/inter/lab/?antialias=default
+
+1. Microsoft Web Core Fonts & Cleartype Fonts \
+https://sourceforge.net/projects/mscorefonts2
