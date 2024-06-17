@@ -48,6 +48,7 @@ https://github.com/stipub/stixfonts \
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
 https://pctex.com/mtpro2.html#MTPro2_Lite \
+https://github.com/ekdc11/ekdc11.github.io/blob/main/share/mtp2lite.zip \
 > LaTeX only math font, which resembles Times and has lots of math related symbols/features in it. The lite version is free of charge.
 
 1. Crimson Text \
