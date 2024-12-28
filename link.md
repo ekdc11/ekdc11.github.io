@@ -40,7 +40,9 @@ https://ctan.org/tex-archive/systems/texlive/Images?lang=en
 
 1. URW++ 35 Base Fonts \
 https://github.com/ArtifexSoftware/urw-base35-fonts \
-> Look for Nimbus Sans & Nimbus Sans Narrow if you need Helvetica.
+> Look for Nimbus Sans & Nimbus Sans Narrow if you need Helvetica. \
+> Another viable option is use GNU FreeSans from GNU Freefont Project \
+>> https://ftp.gnu.org/gnu/freefont/
 
 1. XITS Math \
 https://github.com/aliftype/xits \
