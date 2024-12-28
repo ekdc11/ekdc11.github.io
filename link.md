@@ -44,8 +44,8 @@ https://github.com/ArtifexSoftware/urw-base35-fonts \
 
 1. XITS Math \
 https://github.com/aliftype/xits \
-> The math font is a must-have for anybody who is crafting a manuscript.
-> Converted ttf-format of XITS Math (work better in Windows)
+> The math font is a must-have for anybody who is crafting a manuscript. \
+> ttf-format of XITS Math (works better in Windows) \
 > https://github.com/ekdc11/ekdc11.github.io/blob/main/share/XITSMath-Regular.ttf
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
