@@ -40,28 +40,18 @@ https://ctan.org/tex-archive/systems/texlive/Images?lang=en
 
 1. URW++ 35 Base Fonts \
 https://github.com/ArtifexSoftware/urw-base35-fonts \
-> Look for Nimbus Sans L if you need Helvetica.
+> Look for Nimbus Sans & Nimbus Sans Narrow if you need Helvetica.
 
-1. STIX Two (incl. STIX Two Math) \
-https://github.com/stipub/stixfonts \
+1. XITS Math \
+https://github.com/aliftype/xits \
 > The math font is a must-have for anybody who is crafting a manuscript.
+> Converted ttf-format of XITS Math (work better in Windows)
+> https://github.com/ekdc11/ekdc11.github.io/blob/main/share/XITSMath-Regular.ttf
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
 https://pctex.com/mtpro2.html#MTPro2_Lite \
 https://github.com/ekdc11/ekdc11.github.io/blob/main/share/mtp2lite.zip \
 > LaTeX only math font, which resembles Times and has lots of math related symbols/features in it. The lite version is free of charge.
-
-1. Crimson Text \
-https://github.com/skosch/Crimson \
-> Alternative for Minion (Pro). Crimson Pro (a folk or a redesign of it) is something else but well designed too.
-
-1. Garamond Math \
-https://ctan.org/tex-archive/fonts/garamond-math \
-> Use in conjunction with Crimson Text.
-
-1. Inter \
-https://github.com/rsms/inter \
-https://rsms.me/inter/lab/?antialias=default
 
 1. Microsoft Web Core Fonts & Cleartype Fonts \
 https://sourceforge.net/projects/mscorefonts2
