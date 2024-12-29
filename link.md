@@ -38,16 +38,14 @@ https://ekwan.github.io/notes.html
 1. Latest TeX Live Full Images \
 https://ctan.org/tex-archive/systems/texlive/Images?lang=en
 
-1. URW++ 35 Base Fonts \
-https://github.com/ArtifexSoftware/urw-base35-fonts \
-> Look for Nimbus Sans & Nimbus Sans Narrow if you need Helvetica. \
-> Another viable option is to use GNU FreeSans from GNU Freefont Project
->> https://ftp.gnu.org/gnu/freefont/
+1. FreeSans \
+https://ftp.gnu.org/gnu/freefont/freefont-ttf-20120503.zip \
+> Best free alternative for Helvetica on Windows. It Works well with ChemDraw and PowerPoint.
 
 1. XITS Math \
 https://github.com/aliftype/xits \
 > The math font is a must-have for anybody who is crafting a manuscript. \
-> ttf-format of XITS Math (works better in Windows) \
+> ttf-format of XITS Math (works better on Windows): \
 > https://github.com/ekdc11/ekdc11.github.io/blob/main/share/XITSMath-Regular.ttf
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
