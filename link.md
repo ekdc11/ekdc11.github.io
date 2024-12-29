@@ -40,7 +40,7 @@ https://ctan.org/tex-archive/systems/texlive/Images?lang=en
 
 1. FreeSans \
 https://ftp.gnu.org/gnu/freefont/freefont-ttf-20120503.zip \
-> Best free alternative for Helvetica.
+> Best free alternative for Helvetica. Arial and Helvetica are interchangeable in many scenarios, but Arial looks less balanced at larger font sizes. 
 
 1. XITS Math \
 https://github.com/aliftype/xits/ \
