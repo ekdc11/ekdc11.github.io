@@ -22,6 +22,8 @@ navbar:
    link: "about"
  - name: "Link"
    link: "link"
+ - name: "temp"
+   absolute-link: "https://github.com/ekdc11/ekdc11.github.io/blob/main/share/temp.pdf"
 #- name: "For Students"
 # link: "forstudents"
 # - name: "Resume"
