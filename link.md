@@ -46,11 +46,11 @@ https://ftp.gnu.org/gnu/freefont/freefont-ttf-20120503.zip \
 https://github.com/aliftype/xits/ \
 > The math font is a must-have component for anybody who is crafting a manuscript. \
 > ttf-format of XITS Math (resembles the design of Times New Roman): \
-> https://github.com/ekdc11/ekdc11.github.io/blob/main/share/XITSMath-Regular.ttf
+> https://ekdc11.github.io/share/XITSMath-Regular.ttf
 
 1. MathTime Professional 2 Lite (MTPro2 Lite) \
 https://pctex.com/mtpro2.html#MTPro2_Lite/ \
-https://github.com/ekdc11/ekdc11.github.io/blob/main/share/mtp2lite.zip \
+https://ekdc11.github.io/share/mtp2lite.zip \
 > LaTeX only math font, which resembles Times and has lots of math related symbols and features. The lite version is free of charge.
 
 1. Microsoft Web Core Fonts & Cleartype Fonts \
