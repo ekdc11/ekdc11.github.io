@@ -44,7 +44,7 @@ https://ftp.gnu.org/gnu/freefont/freefont-ttf-20120503.zip \
 
 1. XITS Math \
 https://github.com/aliftype/xits/ \
-> The math font is a must-have component for anybody who is crafting a manuscript. \
+> A math font is a must-have component for anybody who is crafting a STEM manuscript. \
 > ttf-format of XITS Math (resembles the design of Times New Roman): \
 > https://ekdc11.github.io/share/XITSMath-Regular.ttf
 
