@@ -56,5 +56,3 @@ https://ekdc11.github.io/share/mtp2lite.zip \
 1. Microsoft Web Core Fonts & Cleartype Fonts \
 https://sourceforge.net/projects/mscorefonts2/
 > Microsoft allowed redistribution of the so-called webcore fonts, which caused even wider spreading of fonts like Arial, Times New Roman, Courier New, etc.
-
-![](../assets/acidity_methoxy-benzoic-acids.svg)
