@@ -6,3 +6,5 @@
 > NMR Sample Handling
 - mtp2lite.zip
 > MathTime(TM) Professional II Lite Fonts
+- XITSMath-Regular.ttf
+> XITS Math in ttf format
